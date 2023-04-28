@@ -1,3 +1,4 @@
 **/CelebAMask-HQ*
 **/*.csv
 **/dataset_cut*
+**/custom*
